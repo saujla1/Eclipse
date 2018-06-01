@@ -1,0 +1,12 @@
+package first;
+
+public class darray {
+
+	public static void main(String[] args) {
+		int[][]n=new int[5][4];
+		System.out.println(n.length);
+				
+
+	}
+
+}

@@ -1,0 +1,31 @@
+package first;
+class banking{
+	int balance=10000;
+	void withdraw(int amt) {
+		int diff=balance-amt;
+		if(diff<5000) {
+			//System.out.println("the balance is low");
+			NullPointerException ne=new NullPointerException();//unchecked exception.
+			throw ne;
+			
+		
+		}
+		else {
+			balance=balance-amt;
+			System.out.println("the balance is: "+ balance);
+		}
+	}
+}
+public class throwsExc {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		banking b=new banking();
+		//b.withdraw(2000);
+		b.withdraw(2000);
+		b.withdraw(3000);
+		b.withdraw(900);
+
+	}
+
+}

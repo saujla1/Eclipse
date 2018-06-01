@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-java-3.12.0/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-java-3.12.0/client-combined-3.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium-server-standalone-3.12.0 (1).jar"/>
+	<classpathentry kind="lib" path="D:/selenium/chromedriver_win32/chromedriver.exe"/>
+	<classpathentry kind="lib" path="D:/selenium/geckodriver-v0.20.1-win64/geckodriver.exe"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

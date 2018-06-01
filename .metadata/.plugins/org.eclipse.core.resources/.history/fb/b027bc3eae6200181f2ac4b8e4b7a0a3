@@ -1,0 +1,13 @@
+package locatorPackage;
+
+public class wikipage {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver", "D:\\selenium\\chromedriver_win32\\chromedriver.exe");
+		driver ChromeDriver= new ChromeDriver();
+		
+
+	}
+
+}

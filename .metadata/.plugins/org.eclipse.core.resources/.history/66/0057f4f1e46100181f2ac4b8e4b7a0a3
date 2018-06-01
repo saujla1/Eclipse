@@ -1,0 +1,21 @@
+package first;
+
+class A{
+	A(){
+		System.out.println("This is class A constructor");
+	}
+}
+
+class B{
+	B(){
+		System.out.println("This is class B constructor");
+	}
+}
+public class Constructors {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

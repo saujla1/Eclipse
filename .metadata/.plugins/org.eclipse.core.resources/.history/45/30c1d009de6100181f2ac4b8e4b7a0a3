@@ -1,0 +1,32 @@
+package first;
+ class test{
+	//static int i=10;
+	static int count=0;
+	void first() {
+		 int i=10;
+		++i;
+	}
+	void second() {
+		static int c=10;
+		i++;
+		count++;
+	}
+	void printit() {
+		System.out.print("  i= "+i+ "\t"+ "c= "+count);
+	}
+}
+public class StaticKey {
+
+	public static void main(String[] args) {
+		test one=new test();
+		test two=new test();
+		//one.i=13;
+		//two.i=20;
+		one.first();
+		one.printit();
+		two.printit();
+		
+
+	}
+
+}
