@@ -1,0 +1,32 @@
+package locatorPackage;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Class2CaseStudy {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver","D:\\selenium\\chromedriver_win32\\chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://www.edureka.co/");
+		driver.manage().window().maximize();
+		//Inspect the search box with various attributes
+		//Element not visible by name
+		//driver.findElement(By.name("user_v1[query]")).sendKeys("java");
+		//driver.findElement(By.id("homeSearchBar")).sendKeys("java");
+		//driver.findElement(By.xpath("//*[@id=\"homeSearchBarIcon\"]")).click();
+		//driver.findElement(By.xpath("//*[@id=\"homeSearchBar\"]")).sendKeys("java");
+		//driver.findElement(By.cssSelector("input[type='text'][id='homeSearchBar'][name='user_v1[query]']")).sendKeys("java");
+		//driver.findElement(By.xpath("//*[@id=\"homeSearchBarIcon\"]")).click();
+		//Inspect the "Log In" link to get link text and partial link text
+		//driver.findElement(By.linkText("Log In")).click();
+		//driver.findElement(By.partialLinkText("Log")).click();
+		driver.findElement(By.xpath("/html/body/div[2]/section/section[2]/div/div[5]/button[1]")).click();
+		
+		
+
+	}
+
+}

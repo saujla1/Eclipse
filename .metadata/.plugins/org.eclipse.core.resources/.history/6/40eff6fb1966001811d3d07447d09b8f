@@ -1,0 +1,10 @@
+package locatorPackage;
+
+public class Class2CaseStudy {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

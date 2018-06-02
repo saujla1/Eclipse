@@ -31,11 +31,11 @@ public class throwsExc {
 		try {
 		b.withdraw(2000);
 		b.withdraw(3000);
-		b.withdraw(900);
+		b.withdraw(500);
 
 	}
 		catch(Exception e) {
-			System.out.println("Exception for banking"+e);
+			System.out.println("Exception for banking " +e);
 		}
 
 }

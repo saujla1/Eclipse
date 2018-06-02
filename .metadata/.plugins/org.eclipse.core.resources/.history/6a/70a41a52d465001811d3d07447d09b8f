@@ -1,0 +1,16 @@
+package locatorPackage;
+
+import org.openqa.selenium.WebDriver;
+
+public class addingWait {
+	WebDriver driver;
+	public void invokeBrowser() {
+		System.setProperty("webdriver.gecko.driver", "D:\\selenium\\geckodriver-v0.20.1-win64");
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

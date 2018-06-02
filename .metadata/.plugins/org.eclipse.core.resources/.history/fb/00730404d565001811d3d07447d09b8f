@@ -1,0 +1,22 @@
+package locatorPackage;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class addingWait {
+	WebDriver driver;
+	public void invokeBrowser() {
+		System.setProperty("webdriver.gecko.driver", "D:\\selenium\\geckodriver-v0.20.1-win64");
+		driver=new FirefoxDriver();
+		driver.manage().deleteAllCookies();
+		driver.manage().window().maximize();
+		
+		
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
