@@ -44,7 +44,7 @@ public class waits {
 	public static void main(String[] args) throws InterruptedException {
 		browserName("chrome");
 		
-		//working with pop ups
+		//working with pop ups-alert message.
 		
 		//driver.get("http://toolsqa.com/handling-alerts-using-selenium-webdriver/");
 		//JavascriptExecutor jse = (JavascriptExecutor) driver;
@@ -125,7 +125,7 @@ public class waits {
 //		
 //		act.moveToElement(submenu).click().build().perform();
 //		
-//		
+//		radio button
 		driver.get("https://www.facebook.com/");
 		WebElement maleradiobtn= driver.findElement(By.id("u_0_a"));
 		boolean bvalue_maleradiobtn=maleradiobtn.isSelected();
@@ -134,6 +134,7 @@ public class waits {
 		boolean bvalue_maleradiobtn_click= maleradiobtn.isSelected();
 		System.out.println(bvalue_maleradiobtn_click);
 		
+		//element is displayed
 		WebElement reenteremail=driver.findElement(By.name("reg_email_confirmation__"));
 		boolean bvalue_reenteremail=reenteremail.isDisplayed();
 		System.out.println(bvalue_reenteremail);

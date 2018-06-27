@@ -1,0 +1,272 @@
+2018-06-24 18:05:12,828 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:12,829 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:12,829 INFO  [log] ++++++++++TC001++++++++++++ 
+2018-06-24 18:05:12,829 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:12,829 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:16,006 INFO  [log] Successfully opened the browser 
+2018-06-24 18:05:18,673 INFO  [log] Successfully opened URL 
+2018-06-24 18:05:20,732 INFO  [log] mousehovering_withoutclick executed succsessfully onid:ev-dh-1 
+2018-06-24 18:05:22,370 INFO  [log] mousehovering_withclick executed succsessfully onid:ev-dh-3 
+2018-06-24 18:05:22,370 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:22,371 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:22,371 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 18:05:22,371 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:22,371 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:22,371 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:22,514 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:22,514 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:22,514 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-06-24 18:05:22,514 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:22,514 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:22,524 INFO  [log] scrolling executed succsessfully 
+2018-06-24 18:05:22,603 INFO  [log] handling_radiobtn executed succsessfully onid:ctl00_Body_rdoMemberStudent 
+2018-06-24 18:05:22,643 INFO  [log] fetchvalue executed succsessfully onid:totalPrice 
+2018-06-24 18:05:26,464 INFO  [log] handling_clicks executed succsessfully onname:ctl00$Body$btnJoinNow 
+2018-06-24 18:05:30,498 INFO  [log] fetchvalue executed succsessfully onid:ctl00_body_lblSummary_Total 
+2018-06-24 18:05:32,133 INFO  [log] handling_clicks executed succsessfully onlinkText:Create an Account 
+2018-06-24 18:05:32,134 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:32,134 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:32,134 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 18:05:32,134 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:32,134 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:05:32,134 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:14,947 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:14,948 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:14,948 INFO  [log] ++++++++++TC001++++++++++++ 
+2018-06-24 18:12:14,948 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:14,948 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:17,872 INFO  [log] Successfully opened the browser 
+2018-06-24 18:12:20,419 INFO  [log] Successfully opened URL 
+2018-06-24 18:12:22,470 INFO  [log] mousehovering_withoutclick executed succsessfully onid:ev-dh-1 
+2018-06-24 18:12:24,121 INFO  [log] mousehovering_withclick executed succsessfully onid:ev-dh-3 
+2018-06-24 18:12:24,121 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:24,121 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:24,121 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 18:12:24,121 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:24,121 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:24,121 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:24,241 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:24,241 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:24,241 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-06-24 18:12:24,241 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:24,241 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:24,251 INFO  [log] scrolling executed succsessfully 
+2018-06-24 18:12:24,331 INFO  [log] handling_radiobtn executed succsessfully onid:ctl00_Body_rdoMemberStudent 
+2018-06-24 18:12:24,369 INFO  [log] fetchvalue executed succsessfully onid:totalPrice 
+2018-06-24 18:12:27,425 INFO  [log] handling_clicks executed succsessfully onname:ctl00$Body$btnJoinNow 
+2018-06-24 18:12:31,467 INFO  [log] fetchvalue executed succsessfully onid:ctl00_body_lblSummary_Total 
+2018-06-24 18:12:33,077 INFO  [log] handling_clicks executed succsessfully onlinkText:Create an Account 
+2018-06-24 18:12:33,077 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:33,077 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:33,077 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 18:12:33,077 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:33,077 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:12:33,077 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:27,167 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:27,168 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:27,168 INFO  [log] ++++++++++TC001++++++++++++ 
+2018-06-24 18:13:27,168 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:27,168 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:29,529 INFO  [log] Successfully opened the browser 
+2018-06-24 18:13:32,500 INFO  [log] Successfully opened URL 
+2018-06-24 18:13:34,551 INFO  [log] mousehovering_withoutclick executed succsessfully onid:ev-dh-1 
+2018-06-24 18:13:35,728 INFO  [log] mousehovering_withclick executed succsessfully onid:ev-dh-3 
+2018-06-24 18:13:35,728 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:35,728 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:35,728 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 18:13:35,728 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:35,728 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:35,728 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:35,849 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:35,849 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:35,849 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-06-24 18:13:35,849 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:35,849 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:35,861 INFO  [log] scrolling executed succsessfully 
+2018-06-24 18:13:35,952 INFO  [log] handling_radiobtn executed succsessfully onid:ctl00_Body_rdoMemberStudent 
+2018-06-24 18:13:35,985 INFO  [log] fetchvalue executed succsessfully onid:totalPrice 
+2018-06-24 18:13:38,108 INFO  [log] handling_clicks executed succsessfully onname:ctl00$Body$btnJoinNow 
+2018-06-24 18:13:42,148 INFO  [log] fetchvalue executed succsessfully onid:ctl00_body_lblSummary_Total 
+2018-06-24 18:13:43,480 INFO  [log] handling_clicks executed succsessfully onlinkText:Create an Account 
+2018-06-24 18:13:43,480 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:43,480 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:43,480 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 18:13:43,480 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:43,480 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:13:43,480 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:17,081 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:17,082 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:17,082 INFO  [log] ++++++++++TC001++++++++++++ 
+2018-06-24 18:14:17,082 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:17,082 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:19,947 INFO  [log] Successfully opened the browser 
+2018-06-24 18:14:22,449 INFO  [log] Successfully opened URL 
+2018-06-24 18:14:24,499 INFO  [log] mousehovering_withoutclick executed succsessfully onid:ev-dh-1 
+2018-06-24 18:14:25,750 INFO  [log] mousehovering_withclick executed succsessfully onid:ev-dh-3 
+2018-06-24 18:14:25,750 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:25,750 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:25,750 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 18:14:25,750 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:25,750 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:25,750 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:25,865 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:25,865 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:25,865 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-06-24 18:14:25,865 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:25,865 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:25,877 INFO  [log] scrolling executed succsessfully 
+2018-06-24 18:14:25,962 INFO  [log] handling_radiobtn executed succsessfully onid:ctl00_Body_rdoMemberStudent 
+2018-06-24 18:14:25,997 INFO  [log] fetchvalue executed succsessfully onid:totalPrice 
+2018-06-24 18:14:28,898 INFO  [log] handling_clicks executed succsessfully onname:ctl00$Body$btnJoinNow 
+2018-06-24 18:14:32,938 INFO  [log] fetchvalue executed succsessfully onid:ctl00_body_lblSummary_Total 
+2018-06-24 18:14:34,567 INFO  [log] handling_clicks executed succsessfully onlinkText:Create an Account 
+2018-06-24 18:14:34,567 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:34,567 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:34,567 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 18:14:34,567 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:34,567 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:34,567 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:34,625 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:34,625 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:34,625 INFO  [log] ++++++++++TC003++++++++++++ 
+2018-06-24 18:14:34,626 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:34,626 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:36,266 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPFirstName 
+2018-06-24 18:14:36,366 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPLastName 
+2018-06-24 18:14:36,462 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$rgUserName 
+2018-06-24 18:14:36,564 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$rgPassword 
+2018-06-24 18:14:36,694 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$ConfirmPassword 
+2018-06-24 18:14:36,822 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$Email 
+2018-06-24 18:14:36,885 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPCompany 
+2018-06-24 18:14:36,955 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPStreet 
+2018-06-24 18:14:37,015 INFO  [log] handling_dropdown executed succsessfully onname:ctl00$Body$ddlNPCountry 
+2018-06-24 18:14:37,105 INFO  [log] handling_dropdown executed succsessfully onname:ctl00$Body$ddlNPRegion 
+2018-06-24 18:14:37,194 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPCity 
+2018-06-24 18:14:37,271 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPZip 
+2018-06-24 18:14:47,294 ERROR [log] handling_text not executed succsessfully onname:ctl00$Body$txtNPPhone.... 
+2018-06-24 18:14:47,636 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:47,637 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:47,637 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 18:14:47,637 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:47,637 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 18:14:47,637 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:32,325 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:32,325 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:32,325 INFO  [log] ++++++++++TC001++++++++++++ 
+2018-06-24 19:27:32,326 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:32,326 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:35,105 INFO  [log] Successfully opened the browser 
+2018-06-24 19:27:37,726 INFO  [log] Successfully opened URL 
+2018-06-24 19:27:39,778 INFO  [log] mousehovering_withoutclick executed succsessfully onid:ev-dh-1 
+2018-06-24 19:27:41,271 INFO  [log] mousehovering_withclick executed succsessfully onid:ev-dh-3 
+2018-06-24 19:27:41,272 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:41,272 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:41,272 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 19:27:41,272 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:41,272 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:41,272 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:41,449 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:41,449 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:41,449 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-06-24 19:27:41,449 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:41,449 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:41,464 INFO  [log] scrolling executed succsessfully 
+2018-06-24 19:27:41,533 INFO  [log] handling_radiobtn executed succsessfully onid:ctl00_Body_rdoMemberStudent 
+2018-06-24 19:27:41,567 INFO  [log] fetchvalue executed succsessfully onid:totalPrice 
+2018-06-24 19:27:44,782 INFO  [log] handling_clicks executed succsessfully onname:ctl00$Body$btnJoinNow 
+2018-06-24 19:27:48,826 INFO  [log] fetchvalue executed succsessfully onid:ctl00_body_lblSummary_Total 
+2018-06-24 19:27:50,729 INFO  [log] handling_clicks executed succsessfully onlinkText:Create an Account 
+2018-06-24 19:27:50,729 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:50,729 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:50,729 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 19:27:50,729 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:50,729 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:50,729 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:50,844 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:50,844 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:50,844 INFO  [log] ++++++++++TC003++++++++++++ 
+2018-06-24 19:27:50,844 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:50,844 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:27:52,764 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPFirstName 
+2018-06-24 19:27:52,850 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPLastName 
+2018-06-24 19:27:52,939 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$rgUserName 
+2018-06-24 19:27:53,039 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$rgPassword 
+2018-06-24 19:27:53,142 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$ConfirmPassword 
+2018-06-24 19:27:53,260 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$Email 
+2018-06-24 19:27:53,323 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPCompany 
+2018-06-24 19:27:53,393 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPStreet 
+2018-06-24 19:27:53,452 INFO  [log] handling_dropdown executed succsessfully onname:ctl00$Body$ddlNPCountry 
+2018-06-24 19:27:53,558 INFO  [log] handling_dropdown executed succsessfully onname:ctl00$Body$ddlNPRegion 
+2018-06-24 19:27:53,654 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPCity 
+2018-06-24 19:27:53,727 INFO  [log] handling_text executed succsessfully onname:ctl00$Body$tbxNPZip 
+2018-06-24 19:28:03,748 ERROR [log] handling_text not executed succsessfully onname:ctl00$Body$txtNPPhone.... 
+2018-06-24 19:28:04,093 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:28:04,093 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:28:04,093 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 19:28:04,093 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:28:04,094 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:28:04,094 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:39,688 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:39,688 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:39,688 INFO  [log] ++++++++++TC001++++++++++++ 
+2018-06-24 19:33:39,688 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:39,688 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:41,973 INFO  [log] Successfully opened the browser 
+2018-06-24 19:33:44,403 INFO  [log] Successfully opened URL 
+2018-06-24 19:33:46,454 INFO  [log] mousehovering_withoutclick executed succsessfully onid:ev-dh-1 
+2018-06-24 19:33:47,829 INFO  [log] mousehovering_withclick executed succsessfully onid:ev-dh-3 
+2018-06-24 19:33:47,829 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:47,829 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:47,829 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 19:33:47,829 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:47,829 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:47,829 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:48,014 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:48,014 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:48,014 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-06-24 19:33:48,014 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:48,014 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:48,025 INFO  [log] scrolling executed succsessfully 
+2018-06-24 19:33:48,103 INFO  [log] handling_radiobtn executed succsessfully onid:ctl00_Body_rdoMemberStudent 
+2018-06-24 19:33:48,138 INFO  [log] fetchvalue executed succsessfully onid:totalPrice 
+2018-06-24 19:33:50,783 INFO  [log] handling_clicks executed succsessfully onname:ctl00$Body$btnJoinNow 
+2018-06-24 19:33:54,823 INFO  [log] fetchvalue executed succsessfully onid:ctl00_body_lblSummary_Total 
+2018-06-24 19:33:56,195 INFO  [log] handling_clicks executed succsessfully onlinkText:Create an Account 
+2018-06-24 19:33:56,195 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:56,195 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:56,195 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 19:33:56,195 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:56,195 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:33:56,195 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:45,604 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:45,604 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:45,604 INFO  [log] ++++++++++TC001++++++++++++ 
+2018-06-24 19:34:45,604 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:45,604 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:48,475 INFO  [log] Successfully opened the browser 
+2018-06-24 19:34:51,233 INFO  [log] Successfully opened URL 
+2018-06-24 19:34:53,281 INFO  [log] mousehovering_withoutclick executed succsessfully onid:ev-dh-1 
+2018-06-24 19:34:54,869 INFO  [log] mousehovering_withclick executed succsessfully onid:ev-dh-3 
+2018-06-24 19:34:54,869 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:54,869 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:54,869 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 19:34:54,869 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:54,869 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:54,869 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:54,987 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:54,987 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:54,987 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-06-24 19:34:54,987 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:54,987 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:34:54,999 INFO  [log] scrolling executed succsessfully 
+2018-06-24 19:34:55,080 INFO  [log] handling_radiobtn executed succsessfully onid:ctl00_Body_rdoMemberStudent 
+2018-06-24 19:34:55,117 INFO  [log] fetchvalue executed succsessfully onid:totalPrice 
+2018-06-24 19:34:57,795 INFO  [log] handling_clicks executed succsessfully onname:ctl00$Body$btnJoinNow 
+2018-06-24 19:35:01,835 INFO  [log] fetchvalue executed succsessfully onid:ctl00_body_lblSummary_Total 
+2018-06-24 19:35:03,507 INFO  [log] handling_clicks executed succsessfully onlinkText:Create an Account 
+2018-06-24 19:35:03,508 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:35:03,508 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:35:03,508 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-06-24 19:35:03,508 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:35:03,508 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-06-24 19:35:03,508 INFO  [log] +++++++++++++++++++++++++++++++++ 
