@@ -1,0 +1,372 @@
+2018-07-03 16:36:27,854 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:36:27,854 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:36:27,855 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 16:36:27,855 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:36:27,855 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:48:15,082 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:48:15,082 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:48:15,082 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 16:48:15,082 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:48:15,082 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:57:46,789 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:57:46,794 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:57:46,794 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 16:57:46,794 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:57:46,794 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:57:50,880 INFO  [log] Successfully opened the browser 
+2018-07-03 16:57:52,504 INFO  [log] URL opened successfully 
+2018-07-03 16:57:52,635 INFO  [log] handling_text executed succsessfully onlinkText:Log In 
+2018-07-03 16:57:52,905 INFO  [log] text entered succsessfully oncssSelector:input[id='inputName'] 
+2018-07-03 16:57:54,982 INFO  [log] text entered succsessfully oncssSelector:input[id='pwd1'] 
+2018-07-03 16:57:55,085 INFO  [log] handling_text executed succsessfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 16:57:59,118 INFO  [log] scrolling executed succsessfully 
+2018-07-03 16:58:00,354 INFO  [log] handling_text executed succsessfully onlinkText:Blog 
+2018-07-03 16:58:00,470 INFO  [log] text entered succsessfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 16:58:04,049 INFO  [log] handling_text executed succsessfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 16:58:04,129 INFO  [log] handling_text executed succsessfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 16:58:04,129 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:58:04,129 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:58:04,129 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-03 16:58:04,129 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:58:04,129 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 16:58:04,129 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:08:46,169 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:08:46,169 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:08:46,169 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 17:08:46,169 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:08:46,169 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:08:50,233 INFO  [log] Successfully opened the browser 
+2018-07-03 17:08:52,008 INFO  [log] URL opened successfully 
+2018-07-03 17:08:52,138 INFO  [log] handling_text executed succsessfully onlinkText:Log In 
+2018-07-03 17:08:52,326 INFO  [log] text entered succsessfully oncssSelector:input[id='inputName'] 
+2018-07-03 17:08:54,376 INFO  [log] text entered succsessfully oncssSelector:input[id='pwd1'] 
+2018-07-03 17:08:54,469 INFO  [log] handling_text executed succsessfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 17:08:58,485 INFO  [log] scrolling executed succsessfully 
+2018-07-03 17:08:58,570 ERROR [log] handling clicks executed succsessfully onlinkText:Blog 
+2018-07-03 17:08:58,984 ERROR [log] text NOT entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 17:09:19,015 ERROR [log] handling clicks executed succsessfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 17:09:26,226 ERROR [log] handling clicks executed succsessfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 17:11:24,688 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:11:24,689 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:11:24,689 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 17:11:24,689 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:11:24,689 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:11:28,257 INFO  [log] Successfully opened the browser 
+2018-07-03 17:11:30,106 INFO  [log] URL opened successfully 
+2018-07-03 17:11:30,220 INFO  [log] handling_text executed succsessfully onlinkText:Log In 
+2018-07-03 17:11:30,517 INFO  [log] text entered succsessfully oncssSelector:input[id='inputName'] 
+2018-07-03 17:11:32,600 INFO  [log] text entered succsessfully oncssSelector:input[id='pwd1'] 
+2018-07-03 17:11:32,688 INFO  [log] handling_text executed succsessfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 17:11:36,723 INFO  [log] scrolling executed succsessfully 
+2018-07-03 17:11:38,866 INFO  [log] handling_text executed succsessfully onlinkText:Blog 
+2018-07-03 17:11:38,961 INFO  [log] text entered succsessfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 17:11:41,249 INFO  [log] handling_text executed succsessfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 17:11:41,329 INFO  [log] handling_text executed succsessfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 17:11:41,329 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:11:41,329 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:11:41,329 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-03 17:11:41,329 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:11:41,329 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:11:41,329 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:17:34,270 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:17:34,270 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:17:34,270 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 17:17:34,270 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:17:34,270 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:17:38,325 INFO  [log] Successfully opened the browser 
+2018-07-03 17:17:39,909 INFO  [log] URL opened successfully 
+2018-07-03 17:17:40,026 INFO  [log] handling_text executed succsessfully onlinkText:Log In 
+2018-07-03 17:17:40,323 INFO  [log] text entered succsessfully oncssSelector:input[id='inputName'] 
+2018-07-03 17:17:42,407 INFO  [log] text entered succsessfully oncssSelector:input[id='pwd1'] 
+2018-07-03 17:17:42,519 INFO  [log] handling_text executed succsessfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 17:17:46,552 INFO  [log] scrolling executed succsessfully 
+2018-07-03 17:17:47,745 INFO  [log] handling_text executed succsessfully onlinkText:Blog 
+2018-07-03 17:17:47,862 INFO  [log] text entered succsessfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 17:17:49,543 INFO  [log] handling_text executed succsessfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 17:17:49,642 INFO  [log] handling_text executed succsessfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 17:17:49,642 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:17:49,642 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:17:49,642 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-03 17:17:49,642 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:17:49,642 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:17:49,642 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:21:17,969 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:21:17,969 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:21:17,969 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 17:21:17,969 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:21:17,969 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:21:22,007 INFO  [log] Successfully opened the browser 
+2018-07-03 17:21:23,656 INFO  [log] URL opened successfully 
+2018-07-03 17:21:23,786 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-03 17:21:24,104 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-03 17:21:26,184 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-03 17:21:26,286 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 17:21:30,328 INFO  [log] scrolling executed successfully 
+2018-07-03 17:21:32,545 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-03 17:21:32,677 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 17:21:35,566 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 17:21:35,913 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 17:21:35,913 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:21:35,913 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:21:35,913 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-03 17:21:35,913 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:21:35,913 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:21:35,913 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:27:09,831 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:27:09,832 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:27:09,832 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 17:27:09,832 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:27:09,832 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:27:13,894 INFO  [log] Successfully opened the browser 
+2018-07-03 17:27:15,504 INFO  [log] URL opened successfully 
+2018-07-03 17:27:15,624 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-03 17:27:15,916 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-03 17:27:18,002 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-03 17:27:18,111 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 17:27:22,144 INFO  [log] scrolling executed successfully 
+2018-07-03 17:27:25,309 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-03 17:27:25,411 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 17:27:27,622 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 17:27:27,699 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 17:27:27,699 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:27:27,699 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:27:27,700 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-03 17:27:27,700 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:27:27,700 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:27:27,700 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:51:36,757 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:51:36,757 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:51:36,757 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 17:51:36,757 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:51:36,757 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:51:40,870 INFO  [log] Successfully opened the browser 
+2018-07-03 17:51:42,403 INFO  [log] URL opened successfully 
+2018-07-03 17:51:42,517 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-03 17:51:42,802 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-03 17:51:44,918 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-03 17:51:45,006 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 17:51:49,051 INFO  [log] scrolling executed successfully 
+2018-07-03 17:51:51,035 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-03 17:51:51,123 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 17:51:53,189 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 17:51:53,289 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 17:51:53,289 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:51:53,289 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:51:53,289 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-03 17:51:53,289 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:51:53,289 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 17:51:53,289 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:02:47,522 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:02:47,522 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:02:47,522 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 18:02:47,522 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:02:47,522 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:02:51,610 INFO  [log] Successfully opened the browser 
+2018-07-03 18:02:53,216 INFO  [log] URL opened successfully 
+2018-07-03 18:02:53,347 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-03 18:02:53,615 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-03 18:02:55,759 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-03 18:02:55,861 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 18:02:59,903 INFO  [log] scrolling executed successfully 
+2018-07-03 18:03:01,430 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-03 18:03:01,516 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 18:03:02,633 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 18:03:02,718 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 18:03:02,718 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:03:02,718 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:03:02,718 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-03 18:03:02,718 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:03:02,718 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:03:02,718 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:22:36,599 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:22:36,599 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:22:36,599 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 18:22:36,600 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:22:36,600 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:22:40,798 INFO  [log] Successfully opened the browser 
+2018-07-03 18:22:42,672 INFO  [log] URL opened successfully 
+2018-07-03 18:22:42,838 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-03 18:22:43,108 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-03 18:22:45,287 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-03 18:22:45,444 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 18:22:49,515 INFO  [log] scrolling executed successfully 
+2018-07-03 18:22:52,386 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-03 18:22:52,491 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 18:22:54,854 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 18:22:54,990 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 18:22:54,990 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:22:54,990 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:22:54,990 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-03 18:22:54,991 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:22:54,991 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:22:54,991 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:36:12,168 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:36:12,168 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:36:12,169 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 18:36:12,169 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:36:12,169 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:36:16,408 INFO  [log] Successfully opened the browser 
+2018-07-03 18:36:18,730 INFO  [log] URL opened successfully 
+2018-07-03 18:36:18,896 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-03 18:36:19,148 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-03 18:36:21,335 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-03 18:36:21,443 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 18:36:25,496 INFO  [log] scrolling executed successfully 
+2018-07-03 18:36:27,145 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-03 18:36:27,563 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 18:36:29,638 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 18:36:29,654 ERROR [log] handling clicks executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 18:37:11,509 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:37:11,510 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:37:11,510 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 18:37:11,510 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:37:11,510 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:37:32,469 INFO  [log] Successfully opened the browser 
+2018-07-03 18:37:34,937 INFO  [log] URL opened successfully 
+2018-07-03 18:37:43,435 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-03 18:37:45,175 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-03 18:37:48,624 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-03 18:37:54,069 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 18:38:05,221 INFO  [log] scrolling executed successfully 
+2018-07-03 18:38:12,219 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-03 18:38:12,340 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 18:38:18,326 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 18:38:24,304 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 18:38:34,514 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:38:34,515 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:38:34,515 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-03 18:38:34,516 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:38:34,516 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:38:34,516 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:46:12,951 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:46:12,951 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:46:12,951 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-03 18:46:12,951 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:46:12,951 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:46:17,169 INFO  [log] Successfully opened the browser 
+2018-07-03 18:46:18,952 INFO  [log] URL opened successfully 
+2018-07-03 18:46:19,113 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-03 18:46:19,396 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-03 18:46:21,575 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-03 18:46:21,711 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-03 18:46:25,781 INFO  [log] scrolling executed successfully 
+2018-07-03 18:46:27,473 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-03 18:46:27,948 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-03 18:46:30,065 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-03 18:46:30,253 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-03 18:46:30,253 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:46:30,253 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:46:30,253 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-03 18:46:30,253 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:46:30,253 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-03 18:46:30,253 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:06:02,302 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:06:02,302 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:06:02,302 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-05 09:06:02,302 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:06:02,302 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:06:06,567 INFO  [log] Successfully opened the browser 
+2018-07-05 09:06:08,409 INFO  [log] URL opened successfully 
+2018-07-05 09:06:08,532 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-05 09:06:08,826 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-05 09:06:10,935 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-05 09:06:11,029 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-05 09:06:15,083 INFO  [log] scrolling executed successfully 
+2018-07-05 09:06:17,013 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-05 09:06:17,112 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-05 09:06:19,186 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-05 09:06:19,287 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-05 09:06:19,287 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:06:19,287 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:06:19,287 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-05 09:06:19,287 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:06:19,287 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:06:19,287 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:09:51,982 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:09:51,982 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:09:51,982 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-05 09:09:51,982 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:09:51,982 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:09:56,006 INFO  [log] Successfully opened the browser 
+2018-07-05 09:09:57,803 INFO  [log] URL opened successfully 
+2018-07-05 09:09:57,909 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-05 09:09:58,175 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-05 09:10:00,281 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-05 09:10:00,377 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-05 09:10:04,410 INFO  [log] scrolling executed successfully 
+2018-07-05 09:10:06,329 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-05 09:10:06,423 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-05 09:10:09,192 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-05 09:10:09,268 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-05 09:10:09,268 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:10:09,268 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:10:09,268 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-05 09:10:09,268 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:10:09,268 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:10:09,268 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:14:41,808 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:14:41,808 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:14:41,808 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-05 09:14:41,808 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:14:41,808 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:14:45,819 INFO  [log] Successfully opened the browser 
+2018-07-05 09:14:47,742 INFO  [log] URL opened successfully 
+2018-07-05 09:14:47,851 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-05 09:14:48,123 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-05 09:14:50,219 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-05 09:14:50,323 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-05 09:14:54,378 INFO  [log] scrolling executed successfully 
+2018-07-05 09:14:56,247 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-05 09:14:56,572 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-05 09:14:58,269 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-05 09:14:58,414 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-05 09:14:58,414 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:14:58,414 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:14:58,414 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-05 09:14:58,414 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:14:58,414 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:14:58,414 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:15:41,465 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:15:41,465 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:15:41,465 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-05 09:15:41,465 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:15:41,465 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:15:45,432 INFO  [log] Successfully opened the browser 
+2018-07-05 09:15:47,286 INFO  [log] URL opened successfully 
+2018-07-05 09:15:47,397 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-05 09:15:47,689 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-05 09:15:49,825 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-05 09:15:49,917 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-05 09:15:53,978 INFO  [log] scrolling executed successfully 
+2018-07-05 09:15:55,615 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-05 09:15:55,711 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-05 09:15:58,244 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-05 09:15:58,313 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-05 09:15:58,313 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:15:58,313 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:15:58,313 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-05 09:15:58,313 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:15:58,313 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:15:58,313 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:17:29,352 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:17:29,352 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:17:29,352 INFO  [log] ++++++++++TC002++++++++++++ 
+2018-07-05 09:17:29,352 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:17:29,352 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:17:32,890 INFO  [log] Successfully opened the browser 
+2018-07-05 09:17:34,943 INFO  [log] URL opened successfully 
+2018-07-05 09:17:35,060 INFO  [log] handling_text executed successfully onlinkText:Log In 
+2018-07-05 09:17:35,320 INFO  [log] text entered successfully oncssSelector:input[id='inputName'] 
+2018-07-05 09:17:37,412 INFO  [log] text entered successfully oncssSelector:input[id='pwd1'] 
+2018-07-05 09:17:37,512 INFO  [log] handling_text executed successfully oncssSelector:button[type='submit'][class='startlearningbtn defdisablesignin ga_signup_info'] 
+2018-07-05 09:17:41,543 INFO  [log] scrolling executed successfully 
+2018-07-05 09:17:43,219 INFO  [log] handling_text executed successfully onlinkText:Blog 
+2018-07-05 09:17:43,325 INFO  [log] text entered successfully oncssSelector:input[type='text'][id='search-inp'] 
+2018-07-05 09:17:45,726 INFO  [log] handling_text executed successfully onxpath://span[@id='desktop-searchbox']//div[@id='remote']//div[@class='typeahead-field']//span[@class='typeahead-button']//i[@class='icon-search search_ico submit-ico-button search-button-top'] 
+2018-07-05 09:17:45,791 INFO  [log] handling_text executed successfully oncssSelector:a[class='content-tab interviewclick'] 
+2018-07-05 09:17:45,792 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:17:45,792 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:17:45,792 INFO  [log] +++++++++++++END+++++++++++++++++ 
+2018-07-05 09:17:45,792 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:17:45,792 INFO  [log] +++++++++++++++++++++++++++++++++ 
+2018-07-05 09:17:45,792 INFO  [log] +++++++++++++++++++++++++++++++++ 
