@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32788" started-at="2018-06-30T03:20:49Z" finished-at="2018-06-30T03:21:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32788" started-at="2018-06-30T03:20:49Z" finished-at="2018-06-30T03:21:22Z">
+      <class name="driverscript.MainScript">
+        <test-method status="PASS" signature="prerequiste()[pri:0, instance:driverscript.MainScript@4c203ea1]" name="prerequiste" is-config="true" duration-ms="735" started-at="2018-06-30T08:50:49Z" finished-at="2018-06-30T08:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequiste -->
+        <test-method status="PASS" signature="tc001()[pri:1, instance:driverscript.MainScript@4c203ea1]" name="tc001" duration-ms="14351" started-at="2018-06-30T08:50:50Z" finished-at="2018-06-30T08:51:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="prerequiste()[pri:0, instance:driverscript.MainScript@4c203ea1]" name="prerequiste" is-config="true" duration-ms="40" started-at="2018-06-30T08:51:04Z" finished-at="2018-06-30T08:51:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequiste -->
+        <test-method status="PASS" signature="tc002()[pri:2, instance:driverscript.MainScript@4c203ea1]" name="tc002" duration-ms="12806" started-at="2018-06-30T08:51:05Z" finished-at="2018-06-30T08:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+        <test-method status="PASS" signature="prerequiste()[pri:0, instance:driverscript.MainScript@4c203ea1]" name="prerequiste" is-config="true" duration-ms="31" started-at="2018-06-30T08:51:17Z" finished-at="2018-06-30T08:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequiste -->
+        <test-method status="PASS" signature="tc003()[pri:3, instance:driverscript.MainScript@4c203ea1]" name="tc003" duration-ms="4799" started-at="2018-06-30T08:51:17Z" finished-at="2018-06-30T08:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+      </class> <!-- driverscript.MainScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

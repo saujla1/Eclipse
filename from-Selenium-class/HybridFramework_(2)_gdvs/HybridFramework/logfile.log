@@ -1,0 +1,213 @@
+2018-06-23 10:22:08,875 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:08,876 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:08,876 INFO  [Log] +++++TC001+++++ 
+2018-06-23 10:22:08,876 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:08,876 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:13,047 INFO  [Log] Successfully opened the browser 
+2018-06-23 10:22:17,938 INFO  [Log] Successfully opened the websitehttps://www.aapc.com/ 
+2018-06-23 10:22:18,022 INFO  [Log] mousehovering_withoutclick executed successfully on xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-06-23 10:22:22,800 INFO  [Log] mousehovering_withClick executed successfully onlinkText:Individual 
+2018-06-23 10:22:22,812 INFO  [Log] Successfully executed the scrolling 
+2018-06-23 10:22:22,813 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:22,813 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:22,813 INFO  [Log] +++++++++END+++++++ 
+2018-06-23 10:22:22,813 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:22,813 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:22,998 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:22,998 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:22,998 INFO  [Log] +++++TC002+++++ 
+2018-06-23 10:22:22,998 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:22,998 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:23,023 ERROR [Log] fetchValues did not execute successfully onxpath://*[@id="totalPrice"].......... 
+2018-06-23 10:22:31,510 INFO  [Log] handling_clicks executed successfully onname:ctl00$Body$btnJoinNow 
+2018-06-23 10:22:31,558 INFO  [Log] fetchValues executed successfully onxpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-06-23 10:22:36,441 INFO  [Log] handling_clicks executed successfully onlinkText:Create an Account 
+2018-06-23 10:22:36,441 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:36,441 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:36,441 INFO  [Log] +++++++++END+++++++ 
+2018-06-23 10:22:36,441 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:36,441 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:36,506 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:36,506 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:36,506 INFO  [Log] +++++TC003+++++ 
+2018-06-23 10:22:36,506 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:36,506 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:22:38,510 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPFirstName 
+2018-06-23 10:22:38,705 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPLastName 
+2018-06-23 10:22:38,971 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$rgUserName 
+2018-06-23 10:22:39,139 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$rgPassword 
+2018-06-23 10:22:39,320 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$ConfirmPassword 
+2018-06-23 10:22:49,378 ERROR [Log] handling_textbox did not execute successfully onname:ctl00$Body$tbxNPCompany........... 
+2018-06-23 10:22:49,974 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$Email 
+2018-06-23 10:22:50,285 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPStreet 
+2018-06-23 10:23:00,303 ERROR [Log] handling_dropdowns did not execute successfully onname:ctl00$Body$ddlNPCountry.............. 
+2018-06-23 10:23:00,704 INFO  [Log] handling_dropdowns executed successfully onname:ctl00$Body$ddlNPRegion 
+2018-06-23 10:23:01,018 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPCity 
+2018-06-23 10:23:11,072 ERROR [Log] handling_textbox did not execute successfully onname:ctl00$Body$tbxNPZip............. 
+2018-06-23 10:23:11,616 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$txtNPPhone 
+2018-06-23 10:23:11,616 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:23:11,616 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:23:11,616 INFO  [Log] +++++++++END+++++++ 
+2018-06-23 10:23:11,616 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-23 10:23:11,616 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:03,452 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:03,452 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:03,452 INFO  [Log] +++++TC001+++++ 
+2018-06-24 09:53:03,452 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:03,452 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:07,318 INFO  [Log] Successfully opened the browser 
+2018-06-24 09:53:12,627 INFO  [Log] Successfully opened the websitehttps://www.aapc.com/ 
+2018-06-24 09:53:12,717 INFO  [Log] mousehovering_withoutclick executed successfully on xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-06-24 09:53:16,918 INFO  [Log] mousehovering_withClick executed successfully onlinkText:Individual 
+2018-06-24 09:53:16,934 INFO  [Log] Successfully executed the scrolling 
+2018-06-24 09:53:16,934 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:16,934 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:16,934 INFO  [Log] +++++++++END+++++++ 
+2018-06-24 09:53:16,934 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:16,934 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:17,141 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:17,141 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:17,141 INFO  [Log] +++++TC002+++++ 
+2018-06-24 09:53:17,141 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:17,141 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:17,168 ERROR [Log] fetchValues did not execute successfully onxpath://*[@id="totalPrice"].......... 
+2018-06-24 09:53:23,673 INFO  [Log] handling_clicks executed successfully onname:ctl00$Body$btnJoinNow 
+2018-06-24 09:53:23,726 INFO  [Log] fetchValues executed successfully onxpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-06-24 09:53:28,324 INFO  [Log] handling_clicks executed successfully onlinkText:Create an Account 
+2018-06-24 09:53:28,324 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:28,324 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:28,324 INFO  [Log] +++++++++END+++++++ 
+2018-06-24 09:53:28,324 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:28,324 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:28,431 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:28,431 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:28,431 INFO  [Log] +++++TC003+++++ 
+2018-06-24 09:53:28,431 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:28,432 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:53:29,699 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPFirstName 
+2018-06-24 09:53:29,904 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPLastName 
+2018-06-24 09:53:30,195 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$rgUserName 
+2018-06-24 09:53:30,370 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$rgPassword 
+2018-06-24 09:53:30,543 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$ConfirmPassword 
+2018-06-24 09:53:40,555 ERROR [Log] handling_textbox did not execute successfully onname:ctl00$Body$tbxNPCompany........... 
+2018-06-24 09:53:41,123 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$Email 
+2018-06-24 09:53:41,415 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPStreet 
+2018-06-24 09:53:51,465 ERROR [Log] handling_dropdowns did not execute successfully onname:ctl00$Body$ddlNPCountry.............. 
+2018-06-24 09:53:51,882 INFO  [Log] handling_dropdowns executed successfully onname:ctl00$Body$ddlNPRegion 
+2018-06-24 09:53:52,181 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPCity 
+2018-06-24 09:54:02,235 ERROR [Log] handling_textbox did not execute successfully onname:ctl00$Body$tbxNPZip............. 
+2018-06-24 09:54:02,734 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$txtNPPhone 
+2018-06-24 09:54:02,734 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:54:02,734 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:54:02,735 INFO  [Log] +++++++++END+++++++ 
+2018-06-24 09:54:02,735 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:54:02,735 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:27,006 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:27,006 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:27,006 INFO  [Log] +++++TC001+++++ 
+2018-06-24 09:55:27,006 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:27,006 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:30,874 INFO  [Log] Successfully opened the browser 
+2018-06-24 09:55:35,901 INFO  [Log] Successfully opened the websitehttps://www.aapc.com/ 
+2018-06-24 09:55:35,969 INFO  [Log] mousehovering_withoutclick executed successfully on xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-06-24 09:55:39,509 INFO  [Log] mousehovering_withClick executed successfully onlinkText:Individual 
+2018-06-24 09:55:39,530 INFO  [Log] Successfully executed the scrolling 
+2018-06-24 09:55:39,531 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:39,531 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:39,531 INFO  [Log] +++++++++END+++++++ 
+2018-06-24 09:55:39,531 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:39,531 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:39,733 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:39,733 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:39,733 INFO  [Log] +++++TC002+++++ 
+2018-06-24 09:55:39,733 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:39,733 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:39,766 INFO  [Log] fetchValues executed successfully onxpath://*[@id="totalPrice"] 
+2018-06-24 09:55:48,370 INFO  [Log] handling_clicks executed successfully onname:ctl00$Body$btnJoinNow 
+2018-06-24 09:55:48,406 INFO  [Log] fetchValues executed successfully onxpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-06-24 09:55:52,808 INFO  [Log] handling_clicks executed successfully onlinkText:Create an Account 
+2018-06-24 09:55:52,808 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:52,809 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:52,809 INFO  [Log] +++++++++END+++++++ 
+2018-06-24 09:55:52,809 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:52,809 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:52,911 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:52,911 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:52,911 INFO  [Log] +++++TC003+++++ 
+2018-06-24 09:55:52,911 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:52,911 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:54,995 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPFirstName 
+2018-06-24 09:55:55,193 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPLastName 
+2018-06-24 09:55:55,461 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$rgUserName 
+2018-06-24 09:55:55,639 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$rgPassword 
+2018-06-24 09:55:55,821 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$ConfirmPassword 
+2018-06-24 09:55:55,991 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPCompany 
+2018-06-24 09:55:56,257 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$Email 
+2018-06-24 09:55:56,540 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPStreet 
+2018-06-24 09:55:56,610 INFO  [Log] handling_dropdowns executed successfully onname:ctl00$Body$ddlNPCountry 
+2018-06-24 09:55:56,707 INFO  [Log] handling_dropdowns executed successfully onname:ctl00$Body$ddlNPRegion 
+2018-06-24 09:55:56,990 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPCity 
+2018-06-24 09:55:57,123 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPZip 
+2018-06-24 09:55:57,324 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$txtNPPhone 
+2018-06-24 09:55:57,325 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:57,325 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:57,325 INFO  [Log] +++++++++END+++++++ 
+2018-06-24 09:55:57,325 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-24 09:55:57,325 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:50:35,403 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:50:35,403 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:50:35,403 INFO  [Log] +++++TC001+++++ 
+2018-06-30 08:50:35,403 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:50:35,403 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:50:50,646 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:50:50,646 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:50:50,646 INFO  [Log] +++++TC001+++++ 
+2018-06-30 08:50:50,646 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:50:50,646 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:50:55,201 INFO  [Log] Successfully opened the browser 
+2018-06-30 08:51:00,241 INFO  [Log] Successfully opened the websitehttps://www.aapc.com/ 
+2018-06-30 08:51:00,319 INFO  [Log] mousehovering_withoutclick executed successfully on xpath://*[@id="ctl00_topMegaMenu_deskTopMenu"]/div/ul/li[1]/a 
+2018-06-30 08:51:04,625 INFO  [Log] mousehovering_withClick executed successfully onlinkText:Individual 
+2018-06-30 08:51:04,647 INFO  [Log] Successfully executed the scrolling 
+2018-06-30 08:51:04,647 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:04,647 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:04,647 INFO  [Log] +++++++++END+++++++ 
+2018-06-30 08:51:04,647 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:04,648 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:05,031 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:05,031 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:05,031 INFO  [Log] +++++TC002+++++ 
+2018-06-30 08:51:05,031 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:05,031 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:05,081 INFO  [Log] fetchValues executed successfully onxpath://*[@id="totalPrice"] 
+2018-06-30 08:51:13,406 INFO  [Log] handling_clicks executed successfully onname:ctl00$Body$btnJoinNow 
+2018-06-30 08:51:13,540 INFO  [Log] fetchValues executed successfully onxpath://*[@id="ctl00_body_lblSummary_Total"] 
+2018-06-30 08:51:17,729 INFO  [Log] handling_clicks executed successfully onlinkText:Create an Account 
+2018-06-30 08:51:17,729 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:17,729 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:17,729 INFO  [Log] +++++++++END+++++++ 
+2018-06-30 08:51:17,730 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:17,730 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:17,868 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:17,868 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:17,868 INFO  [Log] +++++TC003+++++ 
+2018-06-30 08:51:17,868 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:17,868 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:19,839 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPFirstName 
+2018-06-30 08:51:20,067 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPLastName 
+2018-06-30 08:51:20,399 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$rgUserName 
+2018-06-30 08:51:20,602 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$rgPassword 
+2018-06-30 08:51:20,816 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$ConfirmPassword 
+2018-06-30 08:51:21,002 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPCompany 
+2018-06-30 08:51:21,300 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$Email 
+2018-06-30 08:51:21,653 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPStreet 
+2018-06-30 08:51:21,733 INFO  [Log] handling_dropdowns executed successfully onname:ctl00$Body$ddlNPCountry 
+2018-06-30 08:51:21,856 INFO  [Log] handling_dropdowns executed successfully onname:ctl00$Body$ddlNPRegion 
+2018-06-30 08:51:22,192 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPCity 
+2018-06-30 08:51:22,349 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$tbxNPZip 
+2018-06-30 08:51:22,597 INFO  [Log] handling_textbox executed successfully onname:ctl00$Body$txtNPPhone 
+2018-06-30 08:51:22,597 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:22,597 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:22,597 INFO  [Log] +++++++++END+++++++ 
+2018-06-30 08:51:22,597 INFO  [Log] ++++++++++++++++++++++ 
+2018-06-30 08:51:22,597 INFO  [Log] ++++++++++++++++++++++ 

@@ -1,6 +1,7 @@
 package commonMethods;
 
 
+
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.JavascriptExecutor;

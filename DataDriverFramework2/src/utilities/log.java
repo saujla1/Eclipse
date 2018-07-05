@@ -5,6 +5,8 @@ import org.apache.log4j.Logger;
 public class log {
 	public static Logger Log=Logger.getLogger(log.class.getName());
 	
+	
+	
 	public static void starttestcase(String message) {
 		Log.info("+++++++++++++++++++++++++++++++++");
 		Log.info("+++++++++++++++++++++++++++++++++");

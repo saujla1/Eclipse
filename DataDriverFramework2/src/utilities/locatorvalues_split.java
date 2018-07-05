@@ -18,13 +18,13 @@ public class locatorvalues_split {
 			return By.linkText(locator_value);
 		}
 		else if (locator_type.equalsIgnoreCase("partiallinktext")) {
-			return By.linkText(locator_value);
+			return By.partialLinkText(locator_value);
 		}
 		else if (locator_type.equalsIgnoreCase("xpath")) {
-			return By.linkText(locator_value);
+			return By.xpath(locator_value);
 		}
 		else if (locator_type.equalsIgnoreCase("cssselector")) {
-			return By.linkText(locator_value);
+			return By.cssSelector(locator_value);
 		}
 			
 		return null;

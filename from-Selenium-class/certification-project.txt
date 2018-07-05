@@ -1,0 +1,14 @@
+TC001:
+Page1- landing page
+Login - click on login button- clickbutton function
+Login window pop up- Enter text-usename enterText function
+Enter password- enterText function
+Click on login button- clickbutton function
+
+Scroll to bottom of page- scrolling function
+Click on Blog link- clickbutton function
+
+Page2- Blog page
+Click on Interview Questions tab-Clickbutton function
+Close the blog tabs- closeTab function
+
